@@ -1,10 +1,14 @@
 import './App.css'
-// import Tour from './components/Tour'
+import Reviews from './components/Reviews'
 
 function App() {
   return (
     <div className='App'>
-      <h1>App</h1>
+      <Reviews />
+      <br />
+      <footer>
+        created by - <a href=''>Jyoti-p</a>
+      </footer>
     </div>
   )
 }
