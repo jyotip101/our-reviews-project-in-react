@@ -1,8 +1,8 @@
-<h1 align="center">My Team Info</h1>
+<h1 align="center">Tour Cards</h1>
    
 <!-- DEMO -->
  
- ### <p align="center"> Demo:- <!-- <a hreaf=''> -->My Team Info<!-- </a>  --></p>
+ ### <p align="center"> Demo:- <!-- <a hreaf=''> -->Tour Cards<!-- </a>  --></p>
  
 <!-- TABLE OF CONTENTS -->
 
