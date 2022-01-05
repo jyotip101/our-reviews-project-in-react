@@ -2,8 +2,8 @@
    
 <!-- DEMO -->
  
- ### <p align="center"> Demo:- <!-- <a hreaf=''> -->Tour Cards<!-- </a>  --></p>
- 
+### Demo:-   [Tour Cards](https://jyotip101.github.io/tour-cards-in-reactjs/)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -15,6 +15,10 @@
 <!-- OVERVIEW -->
 
 ## Overview
+
+![Tour-Cards-App](https://user-images.githubusercontent.com/66724598/148176682-43a01ad9-f227-4927-896a-be01c7692de5.png)
+
+![Tour-Cards-App-mobile](https://user-images.githubusercontent.com/66724598/148176690-3623b2a3-ae93-406e-8a05-c17d395e129d.png)
 
 ### Built With
 
