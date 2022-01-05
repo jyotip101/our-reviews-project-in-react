@@ -1,8 +1,9 @@
-<h1 align="center">Tour Cards</h1>
+<h1 align="center">Our Rreviews</h1>
    
 <!-- DEMO -->
  
-### Demo:-   [Tour Cards](https://jyotip101.github.io/tour-cards-in-reactjs/)
+### Demo:-   [Our Rreviews]
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -15,10 +16,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![Tour-Cards-App](https://user-images.githubusercontent.com/66724598/148176682-43a01ad9-f227-4927-896a-be01c7692de5.png)
-
-![Tour-Cards-App-mobile](https://user-images.githubusercontent.com/66724598/148176690-3623b2a3-ae93-406e-8a05-c17d395e129d.png)
 
 ### Built With
 

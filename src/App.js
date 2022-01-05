@@ -1,10 +1,10 @@
 import './App.css'
-import Tour from './components/Tour'
+// import Tour from './components/Tour'
 
 function App() {
   return (
     <div className='App'>
-      <Tour />
+      <h1>App</h1>
     </div>
   )
 }
