@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/our-reviews-project-in-react/static/css/main.800776cd.css",
+    "main.js": "/our-reviews-project-in-react/static/js/main.4f72be3a.js",
+    "index.html": "/our-reviews-project-in-react/index.html",
+    "main.800776cd.css.map": "/our-reviews-project-in-react/static/css/main.800776cd.css.map",
+    "main.4f72be3a.js.map": "/our-reviews-project-in-react/static/js/main.4f72be3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.800776cd.css",
+    "static/js/main.4f72be3a.js"
+  ]
+}
