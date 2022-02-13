@@ -2,7 +2,7 @@
    
 <!-- DEMO -->
  
-### Demo:-   [Our Rreviews](https://jyotip101.github.io/our-reviews-project-in-react/)
+### Demo:-   [Our Rreviews](https://thejyotipatel.github.io/our-reviews-project-in-react/)
 
 
 <!-- TABLE OF CONTENTS -->
